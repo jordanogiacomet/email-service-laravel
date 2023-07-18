@@ -11,7 +11,6 @@ use App\Mail\TestEmail;
 class EmailServiceTest extends TestCase
 {
     
-
     public function testSendEmail()
     {
         // Define o recipient e o data para o teste
